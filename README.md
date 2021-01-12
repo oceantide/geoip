@@ -4,8 +4,8 @@ Automatically weekly release of `geoip.dat` for V2Ray.
 
 ## Download links
 
-- **geoip.dat**：[https://github.com/v2fly/geoip/raw/release/geoip.dat](https://github.com/v2fly/geoip/raw/release/geoip.dat)
-- **geoip.dat.sha256sum**：[https://github.com/v2fly/geoip/raw/release/geoip.dat.sha256sum](https://github.com/v2fly/geoip/raw/release/geoip.dat.sha256sum)
+- **geoip.dat**：[https://github.com/oceantide/geoip/raw/release/geoip.dat](https://github.com/oceantide/geoip/raw/release/geoip.dat)
+- **geoip.dat.sha256sum**：[https://github.com/oceantide/geoip/raw/release/geoip.dat.sha256sum](https://github.com/oceantide/geoip/raw/release/geoip.dat.sha256sum)
 
 ## Usage example
 
